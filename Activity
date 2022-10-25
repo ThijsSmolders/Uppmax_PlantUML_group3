@@ -1,3 +1,4 @@
+```plantuml
 @startuml
 (*) -up-> "Step 1"
 -right-> "Step 2"
@@ -11,3 +12,4 @@ else
 Endif
 -left-> (*)
 @enduml
+```
